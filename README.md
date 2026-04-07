@@ -8,8 +8,6 @@
 
 🔭 I'm currently working on my own projects and teaching programming at Czechitas
 
-⚡ I have a strong background in data analytics & SQL development
-
 💡 I love working with complex code and designing application logic from scratch
 
 🌎 Passionate about traveling and exploring new places & cultures
